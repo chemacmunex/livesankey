@@ -1,0 +1,16 @@
+.navbar{
+        background-color: #665851 !important;
+}
+
+.nav-link{
+        color: rgba(255,255,255,.8) !important;
+}
+
+.nav-link:hover{
+        color: rgba(255,255,255,1) !important;
+}
+
+.marginright{
+        margin-right: 3%;
+}
+

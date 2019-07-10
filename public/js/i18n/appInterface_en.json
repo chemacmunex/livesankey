@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+        "authors": [
+            "Miguel",
+            "Javi"
+        ],
+        "last-updated": "2019-05-13",
+        "locale": "en"
+    },
+    "diagrama_sankey": "Sankey diagram",
+    "desconexion": "Log out",
+    "loading_img": "loading-en.gif",
+    "datos_mostrar": "Data levels",
+    "orden_visualizacion": "Visualization order",
+    "ajustes_visualizacion": "Visualization settings",
+    "minimo": "Minimum",
+    "maximo": "Maximum",
+    "num_min_instancias_para_mostrar_enlace": "Minimum number of instances required to show a link",
+    "generar_diagrama": "Generate diagram",
+    "reset": "Reset",
+    "seleccion_datos": "Data Selection",
+    "filtros_aplicados": "Applied Filters",
+    "limpiar_filtros": "Remove Filters",
+    "doble_click_sobre_nodo_para_filtrar": "(𝐷𝑜𝑢𝑏𝑙𝑒 𝑐𝑙𝑖𝑐𝑘 𝑡𝑜 𝑓𝑖𝑙𝑡𝑒𝑟)",
+    "elimina_el_filtro": "Remove the filter",
+    "instancias": "Instances",
+    "_sin_filtrar": " (Non filtered)"
+}

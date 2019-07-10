@@ -1,0 +1,49 @@
+{
+	"monovalued": [
+		{
+			"tablename": "paper_persona_190514",
+			"key_colname": "dni",
+			"values_colname":[
+				{
+					"colname": "genero",
+					"display_name": "genero"
+				},
+				{
+					"colname": "regimen_seguridad_social",
+					"display_name": "regimen_seguridad_social"
+				},
+				{
+					"colname": "seccion_economica_seguridad_social",
+					"display_name": "seccion_economica_seguridad_social"
+				},
+				{
+					"colname": "sector_seguridad_social",
+					"display_name": "sector_seguridad_social"
+				},
+				{
+					"colname": "tipologia_del_contrato",
+					"display_name": "tipologia_del_contrato"
+				}
+			]
+		}
+	],
+
+	"multivalued": [
+		{
+			"tablename": "paper_estudio_basico_190514",
+			"key_colname": "dni",
+			"values_colname": "tipo_estudio_basico",
+			"display_name": "tipo_estudio_basico",
+			"sortby_colname": "ano_estudio_basico",
+			"display_positions_tablename": "sankey_estudio_basico_190603_pos"
+		},
+		{
+			"tablename": "paper_uex_190514",
+			"key_colname": "dni",
+			"values_colname": "tipo_estudio_universitario",
+			"display_name": "tipo_estudio_universitario",
+			"sortby_colname": "curso_fin_univ",
+			"display_positions_tablename": "sankey_uex_190603_pos"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+        "authors": [
+            "Miguel",
+            "Javi"
+        ],
+        "last-updated": "2019-05-13",
+        "locale": "es-ES"
+    },
+    "diagrama_sankey": "Diagrama de Sankey",
+    "desconexion": "Desconexión",
+    "loading_img": "loading-es-ES.gif",
+    "datos_mostrar": "Datos a mostrar",
+    "orden_visualizacion": "Orden de visualización",
+    "ajustes_visualizacion": "Ajustes de visualización",
+    "minimo": "Mínimo",
+    "maximo": "Máximo",
+    "num_min_instancias_para_mostrar_enlace": "Número mínimo de instancias para mostrar un enlace",
+    "generar_diagrama": "Generar diagrama",
+    "reset": "Reset",
+    "seleccion_datos": "Selección de datos",
+    "filtros_aplicados": "Filtros aplicados",
+    "limpiar_filtros": "Limpiar filtros",
+    "doble_click_sobre_nodo_para_filtrar": "(𝐷𝑜𝑏𝑙𝑒 𝑐𝑙𝑖𝑐𝑘 𝑝𝑎𝑟𝑎 𝑓𝑖𝑙𝑡𝑟𝑎𝑟)",
+    "elimina_el_filtro": "Elimina el filtro",
+    "instancias": "Instancias",
+    "_sin_filtrar": " (Sin filtrar)"
+}
